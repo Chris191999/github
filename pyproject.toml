@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "ict-trading-journal"
+version = "0.1.0"
+description = "ICT Trading Journal Application"
+authors = ["Author <author@example.com>"]
+readme = "README.md"
+package-mode = false
+
+[tool.poetry.dependencies]
+python = "^3.8"
+matplotlib = "^3.7.0"
+numpy = "^1.24.0"
+pandas = "^2.0.0"
+pillow = "^9.0.0"
+plotly = "^5.0.0"
+streamlit = "^1.25.0"
